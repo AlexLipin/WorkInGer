@@ -1,0 +1,106 @@
+article {
+  background: white;
+  margin-right: auto;
+  width: 1000px;
+  margin-left: auto;
+  overflow: auto;
+  padding: 56px;
+  margin-top:92px;
+  outline: 2px solid #A5A5A5
+}
+
+/*start WELCOME*/
+.section-welcome {
+  font-size: 49px;
+  margin-top:67px;
+  text-align: center;
+  color:#4A4A4A;
+}
+.section-welcome-text {
+  color: #A5A5A5;
+  margin-top: 28px;
+  text-align: left;
+  size:33px;
+}
+/*end WELCOME*/
+
+/*start document structure*/
+.document-structure-glplace {
+  text-align: left;
+  font-size: 30px;
+  color: #4A4A4A;
+}
+.document-structure-gltext {
+  margin-top: 45px;
+}
+
+.document-structure-text {
+  margin-left: auto;
+  margin-top: 21px;
+  font-size: 25px;
+  margin-top: 45px;
+}
+li {
+    font-size: 20px;
+}
+/*end document structure*/
+
+/*start section with car and heart*/
+.section-content {
+  overflow: auto;
+  margin-bottom: 50px;
+}
+.section-hardline {
+  color: #1DACD6;
+  font-size: 25px
+}
+
+.section-text {
+  width: 950px;
+}
+
+.section-img {
+  margin-right: auto;
+  width: 93px;
+  float: left;
+  margin-right: 20px;
+}
+/*end section witw car and haert*/
+
+/*start table*/
+table {
+  border-collapse: collapse;
+  width: 589px; 
+}
+
+
+th { 
+  text-align: left; 
+}
+
+td {
+  text-align: left; 
+}
+
+th,td {
+  border: 1px solid #A5A5A5; 
+  padding: 4px;
+}
+/*end table*/
+
+
+.by-who {
+  background: white;
+  width: 600px;
+  padding: 9px;
+  margin-top:46px;
+  margin-left: auto;  
+  margin-right: auto;
+  overflow: auto;
+  text-align: center;
+  outline: 2px solid #A5A5A5;
+  margin-bottom: 49px;
+}
+h3 {
+  font-family: Geneva;
+}
