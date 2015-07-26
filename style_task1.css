@@ -15,7 +15,10 @@
   LI {
     size:14px;
 }
-.glob {
+  OL {
+    margin-top:1px
+}
+.global {
   background: white;
   margin-right: auto;
   width: 1000px;
@@ -24,47 +27,67 @@
   padding: 56px;
   margin-top:92px;
   outline: 2px solid #A5A5A5
-  }
-.p1 {
+}
+.welcome {
+  font-size: 49px;
+  margin-top:67px;
+  text-align: center;
+  color:#4A4A4A
+}
+.welcome-text {
   color: #A5A5A5;
   margin-top: 28px;
   text-align: left;
   size:33px;
-  }
-.p2 {
+}
+.document-structure-glplace {
+  text-align: left
+}
+.document-structure-gltext {
   font-size: 33px;
   margin-top:45px;
   color:#4A4A4A;
   font-family:=avenirnext-bold
-  }
-.div1 {
+}
+.document-structure-place {
   margin-left: auto;
   margin-top:21px;
   font-size: 25px;
   color:#A4A4A4A
-  }
-.H3 {
-  color:#1DACD6;
+}
+.document-structure-text {
+  size: 33px
+}
+/*start section witf car and hard*/
+.section-content {
+  overflow: auto;
+  margin-bottom: 50px;
+}
+.section-hardline {
+  color: #1DACD6;
   margin-right: auto;
   font-size: 25px
 }
-.div2 {
-  margin-right:auto;
-  width:150px;
-  float:left
-  }
-  .caption {
-  color:#1DACD6;
+
+.section-text {
+  width: 950px;
+}
+
+.section-img {
+  margin-right: auto;
+  width: 93px;
+  float: left;
+  margin-right: 20px;
+}
+/*end section witf car and hard*/
+
+.caption {
+  color: #1DACD6;
   font-size: 25px;
-  margin-top:67px;
-  text-align:left
-  }
-.div3 {
-  position:relative;
-  margin-left:auto;
-  float:left;
-  width:150px}
-.div4 {
+  text-align: left
+}
+
+.by-who {
   background: white;
   width: 600px;
   padding: 9px;
@@ -74,11 +97,4 @@
   overflow: auto;
   text-align: center;
   outline: 2px solid #A5A5A5
-  }
-.h1 {
-  font-size: 49px;
-  margin-top:67px;
-  text-align: center;
-  color:#4A4A4A
-
-  }
+}
