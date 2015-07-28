@@ -67,12 +67,12 @@ li {
 }
 /*end section witw car and haert*/
 
+
 /*start table*/
 table {
   border-collapse: collapse;
   width: 589px; 
 }
-
 
 th { 
   text-align: left; 
@@ -101,6 +101,7 @@ th,td {
   outline: 2px solid #A5A5A5;
   margin-bottom: 49px;
 }
+
 h3 {
   font-family: Geneva;
 }
